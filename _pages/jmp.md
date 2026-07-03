@@ -18,7 +18,10 @@ This paper studies how female-biased East-to-West internal migration after Germa
 
 ### Abstract
 
-This paper studies whether female-biased East-to-West internal migration after German reunification altered marital stability in receiving West German districts. I construct district-year measures of cumulative exposure to young East German women, scaled by fixed pre-treatment population, and relate this exposure to changes in district-level divorce activity relative to a pre-reunification baseline. The main result is a negative relationship: districts with greater exposure experienced smaller post-reunification increases in divorce. I interpret this pattern through a receiving-market marriage-market channel. A disproportionately female inflow may have reduced women’s relative scarcity in local partner markets, weakened their outside options, and thereby lowered the incidence of relationship dissolution, particularly in thinner local marriage markets. Because identification relies on historically mediated variation in migrant exposure, the estimates should be interpreted as evidence consistent with this mechanism rather than as definitive proof of it.
+This paper investigates whether young, female-skewed East--West migration after German reunification altered marital stability in receiving West German districts. I construct district-year measures of cumulative exposure to young East German migrants, expressed in imputed young-female units and scaled by fixed pre-treatment population, and relate this exposure to district-level divorce rates. To address endogenous migrant sorting, I use a historical-share-by-push instrument that interacts pre-reunification East-linked settlement shares with a cumulative female-weighted East German labor-market push component. The preferred IV estimates show that districts with greater predicted exposure experienced lower post-reunification divorce rates after conditioning on state-year shocks and predetermined district characteristics. The evidence supports a stabilizing relationship between predicted young East--West migration exposure and divorce rates in receiving districts, while the mechanism evidence does not isolate a purely female-specific or unilateral filing channel.
+
+**Keywords:** Migration, divorce, sex ratio, Germany  
+**JEL Codes:** J12, J61, R23, D10
 
 ### Research Question
 
