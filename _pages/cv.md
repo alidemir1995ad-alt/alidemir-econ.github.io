@@ -103,6 +103,10 @@ References
   * Department of Economics, Royal Holloway University of London, London, UK
   * Email: [arnaud.chevalier@rhul.ac.uk](mailto:arnaud.chevalier@rhul.ac.uk)
 
+* **Prof. Dr. Tobias Seidel**
+  * Mercator School of Management, University of Duisburg-Essen, Duisburg, Germany
+  * Email: [tobias.seidel@uni-due.de](mailto:tobias.seidel@uni-due.de)
+
 * **Prof. Dr. Susann Fiedler**
   * Department of Strategy and Innovation, Institute for Cognition and Behavior, Wirtschaftsuniversität Wien, Vienna, Austria
   * Email: [susann.fiedler@wu.ac.at](mailto:susann.fiedler@wu.ac.at)
