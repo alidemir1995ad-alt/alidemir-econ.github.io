@@ -42,3 +42,9 @@
     "vendor/font-awesome/brands"
 ;
 
+@media screen and (min-width: 1024px) {
+  .page,
+  .archive {
+    padding-left: 4rem !important;
+  }
+}
