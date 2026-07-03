@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include base_path %}
 
 I am a PhD Candidate in Economics at Ruhr University Bochum, working under the supervision of Prof. Dr. Thomas K. Bauer. I expect to complete my PhD in September 2026.
 
@@ -18,7 +19,7 @@ I am currently on the market for postdoctoral and research-oriented early-career
 My job market paper, *German Internal Migration: A Marriage Market Perspective*, examines how female-biased East-to-West internal migration after German reunification altered local marriage-market conditions and affected divorce outcomes in receiving West German districts.
 
 My other works examine the causal effect of housing on fertility and the transition to adulthood from a housing and migration perspective.
-{% include base_path %}
+
 You can download a PDF version of my CV [here](/files/Vitae.pdf).
 
 You can download my Job Market Paper [here](/files/JMP.pdf).
