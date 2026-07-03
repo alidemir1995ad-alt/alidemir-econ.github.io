@@ -30,8 +30,8 @@ Research
   * *German Internal Migration: A Marriage Market Perspective*
 
 * **Working Papers**
-  * *The Causal Effect of Housing on Fertility*
-  * *Transition to Adulthood: A Housing and Migration Perspective*
+  * *Housing Security and Family Expansion: Evidence from German Homeownership*
+  * *Transition to Adulthood: Local Rents and Leaving the Parental Home*
 
 Education
 ======
@@ -78,7 +78,7 @@ Skills
 * **Languages**
   * Turkish (native)
   * English (fluent)
-  * German (elementary)
+  * German (B1)
 
 * **Software**
   * Stata
@@ -89,7 +89,7 @@ Skills
 
 Professional Service and Other Experience
 ======
-* January 2022--Present: **Assistant Editor**
+* January 2022--October 2023: **Assistant Editor**
   * behavioraleconomics.com
   * United Kingdom, remote
 
