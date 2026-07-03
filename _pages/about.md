@@ -8,21 +8,16 @@ redirect_from:
 ---
 {% include base_path %}
 
-I am a PhD Candidate in Economics at Ruhr University Bochum, working under the supervision of Prof. Dr. Thomas K. Bauer. I expect to complete my PhD in September 2026.
+I am a PhD Candidate in Economics at Ruhr University Bochum and a doctoral researcher in the DFG-funded Research Training Group 2484 “Regional Disparities and Economic Policy”. I work under the supervision of Prof. Dr. Thomas K. Bauer and expect to complete my PhD in September 2026.
 
-My research is in applied microeconomics, especially migration economics, family economics, and labor economics. I am interested in how migration, housing, and demographic imbalances affect household behavior, marriage markets, divorce, and fertility.
+I am currently on the market for postdoctoral and research-oriented early-career academic positions.
 
-I am currently on the market for postdoctoral and research-oriented early-career academic/research positions.
+My research lies in applied microeconomics, with a focus on migration economics, family economics, housing, and regional inequality. My dissertation, *Housing, Migration, and Family Formation: Essays in Empirical Family and Regional Economics*, studies how migration and housing-market conditions shape family behavior across three margins: divorce, fertility, and leaving the parental home.
 
-## Research
+My job market paper, *German Internal Migration: A Marriage Market Perspective*, studies whether young, female-skewed East-to-West migration after German reunification affected divorce rates in receiving West German districts.
 
-My job market paper, *German Internal Migration: A Marriage Market Perspective*, examines how female-biased East-to-West internal migration after German reunification altered local marriage-market conditions and affected divorce outcomes in receiving West German districts.
-
-My other works examine the causal effect of housing on fertility and the transition to adulthood from a housing and migration perspective.
-
-You can download a PDF version of my CV [here](/files/Vitae.pdf).
-
-You can download my Job Market Paper [here](/files/JMP.pdf).
+[Download CV](/files/CV_Ali_Demir.pdf)  
+[Download Job Market Paper](/files/JMP_Ali_Demir.pdf)
 
 ## Contact
 
