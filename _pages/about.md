@@ -19,9 +19,9 @@ My job market paper, *German Internal Migration: A Marriage Market Perspective*,
 
 My other works examine the causal effect of housing on fertility and the transition to adulthood from a housing and migration perspective.
 
-You can download my [CV](url:/files/Vitae.pdf).
+You can download a PDF version of my CV [here](/files/Vitae.pdf).
 
-You can download my Job Market Paper.
+You can download my Job Market Paper [here](/files/JMP.pdf).
 
 ## Contact
 
