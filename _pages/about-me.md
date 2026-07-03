@@ -15,3 +15,4 @@ My doctoral research is in applied empirical economics. My job market paper, *Ge
 
 You can find more information on my [research](/research/), [CV](/cv/), [teaching](/teaching/), and [contact page](/contact/).
 
+
