@@ -12,9 +12,13 @@ My research lies in applied microeconomics, with a particular focus on migration
 Job Market Paper
 ======
 
-### *German Internal Migration: A Marriage Market Perspective*
+### German Internal Migration: A Marriage Market Perspective
 
-This paper studies how female-biased East-to-West internal migration after German reunification affected marital stability in receiving West German districts. Using district-level panel data and an instrumental-variables design, I examine whether migration altered local marriage-market conditions and, through this channel, changed divorce behavior.
+**Status:** Job Market Paper  
+**Fields:** Migration Economics, Family Economics, Regional Economics, Applied Microeconomics  
+**Methods:** Shift-share IV, district-year panel data, historical data construction  
+
+This paper investigates whether young, female-skewed East–West migration after German reunification altered marital stability in receiving West German districts. I construct district-year measures of cumulative exposure to young East German migrants and use a historical-share-by-push instrument based on pre-reunification East-linked settlement shares and an East German female labour-market push component. The preferred IV estimates show that districts with greater predicted exposure experienced lower post-reunification divorce rates.
 
 [Job Market Paper page](/job-market-paper/)  
 [Download PDF](/files/JMP_Ali_Demir.pdf)
@@ -22,13 +26,21 @@ This paper studies how female-biased East-to-West internal migration after Germa
 Working Papers
 ======
 
-### *The Causal Effect of Housing on Fertility*
+### Housing Security and Family Expansion: Evidence from German Homeownership
 
-This paper studies whether housing conditions, and in particular homeownership, causally affect fertility behavior. The project focuses on how housing security, living conditions, and ownership status shape family formation decisions.
+**Fields:** Family Economics, Housing Economics, Applied Microeconomics  
+**Data:** SOEP longitudinal data  
+**Methods:** Instrumental variables, parity-specific fertility transitions  
 
-### *Transition to Adulthood: A Housing and Migration Perspective*
+This paper examines whether homeownership is associated with fertility outcomes among women in West Germany. The preferred results provide limited evidence for effects on completed fertility, but indicate a positive and statistically meaningful effect on the transition to a second birth among women who already have one child.
 
-This project examines the transition to adulthood through the joint lens of housing and migration. It studies how leaving home, housing constraints, and spatial mobility interact in shaping early adult life-course decisions.
+### Transition to Adulthood: Local Rents and Leaving the Parental Home
+
+**Fields:** Family Economics, Housing Economics, Migration and Regional Economics  
+**Data:** SOEP and RWI-GEO-REDX  
+**Methods:** Panel-data models, local fixed effects, regional-year controls  
+
+This paper studies whether local rental costs at the parental-home location predict young adults’ first exit from the parental home in Germany. The main finding is cautious: once parental-home postal-code fixed effects and strong regional-year controls are included, there is no robust evidence that local rents explain first-exit timing or systematic spatial substitution across move types.
 
 
 Research Fields
