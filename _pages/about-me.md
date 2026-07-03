@@ -14,3 +14,4 @@ I received my B.Sc. in Mathematics from Middle East Technical University, where 
 My doctoral research is in applied empirical economics. My job market paper, *German Internal Migration: A Marriage Market Perspective*, studies how internal migration affects divorce outcomes through changes in local marriage-market conditions. In related projects, I examine housing and fertility, and the transition to adulthood through local rental markets and leaving the parental home.
 
 You can find more information on my [research](/research/), [CV](/cv/), [teaching](/teaching/), and [contact page](/contact/).
+
