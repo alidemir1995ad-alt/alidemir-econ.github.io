@@ -16,8 +16,8 @@ My research lies in applied microeconomics, with a focus on migration economics,
 
 My job market paper, *German Internal Migration: A Marriage Market Perspective*, studies whether young, female-skewed East-to-West migration after German reunification affected divorce rates in receiving West German districts.
 
-[Download CV](/files/CV_Ali_Demir.pdf)  
-[Download Job Market Paper](/files/JMP_Ali_Demir.pdf)
+[Download CV](/files/Vitae.pdf)  
+[Download Job Market Paper](/files/JMP.pdf)
 
 ## Contact
 
