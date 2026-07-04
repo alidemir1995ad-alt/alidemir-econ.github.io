@@ -13,9 +13,9 @@ title                    : "Ali Demir"
 title_separator          : "|"
 name                     : &name "Ali Demir"
 description              : &description "PhD Candidate in Economics | Ruhr University Bochum | Research in internal migration, marriage markets, divorce, and fertility"
-url                      : "https://alidemir-econ.github.io"
+url                      : "https://alidemir1995ad-alt.github.io"
 baseurl                  : ""
-repository               : "alidemir1995ad-alt/alidemir-econ.github.io"
+repository               : "alidemir1995ad-alt/alidemir1995ad-alt.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
