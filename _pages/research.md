@@ -21,7 +21,7 @@ Job Market Paper
 This paper investigates whether young, female-skewed East–West migration after German reunification altered marital stability in receiving West German districts. I construct district-year measures of cumulative exposure to young East German migrants and use a historical-share-by-push instrument based on pre-reunification East-linked settlement shares and an East German female labour-market push component. The preferred IV estimates show that districts with greater predicted exposure experienced lower post-reunification divorce rates.
 
 [Job Market Paper page](/job-market-paper/)  
-[Download PDF](/files/JMP.pdf)
+[Download PDF](/files/Demir_JMP.pdf)
 
 Working Papers
 ======
