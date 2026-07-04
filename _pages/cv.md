@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can download a PDF version of my CV [here](/files/Vitae.pdf).
+You can download a PDF version of my CV [here](/files/Demir_Vitae.pdf).
 
 Contact
 ======
