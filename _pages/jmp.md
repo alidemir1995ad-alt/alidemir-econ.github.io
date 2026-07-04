@@ -29,11 +29,11 @@ How did female-biased East-to-West internal migration after German reunification
 
 ### Main Finding
 
-Districts with greater cumulative exposure to young female East German migrants experienced smaller post-reunification increases in divorce activity.
+In the preferred controlled IV specification, districts with greater predicted exposure to young East–West migration, expressed in imputed young-female units, experienced lower post-reunification divorce rates. A one-standard-deviation increase in predicted exposure corresponds to roughly 0.26 fewer annual divorces per 1,000 residents, about 10 percent of the sample mean.
 
 ### Interpretation
 
-The results are consistent with a receiving-market marriage-market mechanism: a disproportionately female inflow reduced women’s relative scarcity in local partner markets and thereby lowered the expected gains from separation.
+The pattern is directionally consistent with a receiving-market-availability mechanism, but the implied magnitude exceeds what net sex-ratio changes alone can explain, and the filing decomposition does not isolate a female-specific or unilateral channel: the clearest negative response appears in joint filings. The estimate is a local effect of predicted exposure and does not separately identify an effect of female migration alone.
 
 ### Data and Design
 
