@@ -106,12 +106,3 @@ References
 * **Prof. Dr. Tobias Seidel**
   * Mercator School of Management, University of Duisburg-Essen, Duisburg, Germany
   * Email: [tobias.seidel@uni-due.de](mailto:tobias.seidel@uni-due.de)
-
-* **Prof. Dr. Susann Fiedler**
-  * Department of Strategy and Innovation, Institute for Cognition and Behavior, Wirtschaftsuniversität Wien, Vienna, Austria
-  * Email: [susann.fiedler@wu.ac.at](mailto:susann.fiedler@wu.ac.at)
-
-* **Prof. Dr. Matteo Ploner**
-  * Department of Economics and Management, University of Trento, Trento, Italy
-  * Email: [matteo.ploner@unitn.it](mailto:matteo.ploner@unitn.it)
-  * 
