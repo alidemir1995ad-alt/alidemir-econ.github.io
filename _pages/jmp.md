@@ -41,3 +41,4 @@ The pattern is directionally consistent with a receiving-market-availability mec
 - Administrative divorce statistics assembled from state-level sources
 - Cumulative migration exposure to young East German women
 - Instrumental-variables design using historically mediated variation in migrant exposure
+
